@@ -1,33 +1,28 @@
 {
-    "track" : [
-        
-  { "id": 1, "name": "Albert Park Circuit (Melbourne, Australia)", "img_url": "https://KavinsProjects.github.io/F1_Track_API/track-img/Albert_Park_Circuit.png" },
-
-  { "id": 2, "name": "Shanghai International Circuit (China)", "img_url": "/track-img/chinese_Circuit.png" },
-
-  { "id": 3, "name": "Suzuka International Racing Course (Japan)", "img_url": "/track-img/Suzuka_Circuit.png" },
-  
-  { "id": 4, "name": "Bahrain International Circuit (Sakhir, Bahrain)", "img_url": "/track-img/Bahrain_Circuit.png" },
-  { "id": 5, "name": "Jeddah Corniche Circuit (Saudi Arabia)", "img_url": "/track-img/Jeddah_Circuit.png" },
-  { "id": 6, "name": "Miami International Autodrome (USA)", "img_url": "/track-img/Miami_Circuit.png" },
-  { "id": 7, "name": "Circuit Gilles Villeneuve (Montreal, Canada)", "img_url": "/track-img/Gilles_Villeneuve_Circuit.png" },
-  { "id": 8, "name": "Circuit de Monaco (Monte Carlo, Monaco)", "img_url": "/track-img/Monaco_Circuit.png" },
-  { "id": 9, "name": "Circuit de Barcelona-Catalunya (Spain)", "img_url": "/track-img/Barcelona_Circuit.png" },
-  { "id": 10, "name": "Red Bull Ring (Spielberg, Austria)", "img_url": "/track-img/Red_Bull_Ring.png" },
-  { "id": 11, "name": "Silverstone Circuit (Great Britain)", "img_url": "/track-img/Silverstone_Circuit.png" },
-  { "id": 12, "name": "Circuit de Spa-Francorchamps (Belgium)", "img_url": "/track-img/Spa_Francorchamps_Circuit.png" },
-  { "id": 13, "name": "Hungaroring (Budapest, Hungary)", "img_url": "/track-img/Hungaroring_Circuit.png" },
-  { "id": 14, "name": "Circuit Zandvoort (Netherlands)", "img_url": "/track-img/Zandvoort_Circuit.png" },
-  { "id": 15, "name": "Madring - IFEMA Circuit (Madrid, Spain)", "img_url": "/track-img/Madring_Circuit.png" },
-  { "id": 16, "name": "Baku City Circuit (Azerbaijan)", "img_url": "/track-img/Baku_City_Circuit.png" },
-  { "id": 17, "name": "Marina Bay Street Circuit (Singapore)", "img_url": "/track-img/Marina_Bay_Circuit.png" },
-  { "id": 18, "name": "Circuit of the Americas (Austin, USA)", "img_url": "/track-img/COTA_Circuit.png" },
-  { "id": 19, "name": "Autodromo Hermanos Rodriguez (Mexico City, Mexico)", "img_url": "/track-img/Mexico_Circuit.png" },
-  { "id": 20, "name": "Autodromo Jose Carlos Pace - Interlagos (Sao Paulo, Brazil)", "img_url": "/track-img/Interlagos_Circuit.png" },
-  { "id": 21, "name": "Las Vegas Strip Circuit (USA)", "img_url": "/track-img/Las_Vegas_Circuit.png" },
-  { "id": 22, "name": "Losail International Circuit (Qatar)", "img_url": "/track-img/Losail_Circuit.png" },
-  { "id": 23, "name": "Yas Marina Circuit (Abu Dhabi, UAE)", "img_url": "/track-img/Yas_Marina_Circuit.png" },
-  { "id": 24, "name": "Autodromo Nazionale Monza (Italy)", "img_url": "/track-img/Monza_Circuit.png" }
-
-    ]
+  "track": [
+    { "id": 1, "name": "Albert Park Circuit (Melbourne, Australia)", "img_url": "https://KavinsProjects.github.io/F1_Track_API/track-img/Albert_Park_Circuit.png" },
+    { "id": 2, "name": "Shanghai International Circuit (China)", "img_url": "https://KavinsProjects.github.io/F1_Track_API/track-img/chinese_Circuit.png" },
+    { "id": 3, "name": "Suzuka International Racing Course (Japan)", "img_url": "https://KavinsProjects.github.io/F1_Track_API/track-img/Suzuka_Circuit.png" },
+    { "id": 4, "name": "Bahrain International Circuit (Sakhir, Bahrain)", "img_url": "https://KavinsProjects.github.io/F1_Track_API/track-img/Bahrain_Circuit.png" },
+    { "id": 5, "name": "Jeddah Corniche Circuit (Saudi Arabia)", "img_url": "https://KavinsProjects.github.io/F1_Track_API/track-img/Jeddah_Circuit.png" },
+    { "id": 6, "name": "Miami International Autodrome (USA)", "img_url": "https://KavinsProjects.github.io/F1_Track_API/track-img/Miami_Circuit.png" },
+    { "id": 7, "name": "Circuit Gilles Villeneuve (Montreal, Canada)", "img_url": "https://KavinsProjects.github.io/F1_Track_API/track-img/Gilles_Villeneuve_Circuit.png" },
+    { "id": 8, "name": "Circuit de Monaco (Monte Carlo, Monaco)", "img_url": "https://KavinsProjects.github.io/F1_Track_API/track-img/Monaco_Circuit.png" },
+    { "id": 9, "name": "Circuit de Barcelona-Catalunya (Spain)", "img_url": "https://KavinsProjects.github.io/F1_Track_API/track-img/Barcelona_Circuit.png" },
+    { "id": 10, "name": "Red Bull Ring (Spielberg, Austria)", "img_url": "https://KavinsProjects.github.io/F1_Track_API/track-img/Red_Bull_Ring.png" },
+    { "id": 11, "name": "Silverstone Circuit (Great Britain)", "img_url": "https://KavinsProjects.github.io/F1_Track_API/track-img/Silverstone_Circuit.png" },
+    { "id": 12, "name": "Circuit de Spa-Francorchamps (Belgium)", "img_url": "https://KavinsProjects.github.io/F1_Track_API/track-img/Spa_Francorchamps_Circuit.png" },
+    { "id": 13, "name": "Hungaroring (Budapest, Hungary)", "img_url": "https://KavinsProjects.github.io/F1_Track_API/track-img/Hungaroring_Circuit.png" },
+    { "id": 14, "name": "Circuit Zandvoort (Netherlands)", "img_url": "https://KavinsProjects.github.io/F1_Track_API/track-img/Zandvoort_Circuit.png" },
+    { "id": 15, "name": "Madring - IFEMA Circuit (Madrid, Spain)", "img_url": "https://KavinsProjects.github.io/F1_Track_API/track-img/Madring_Circuit.png" },
+    { "id": 16, "name": "Baku City Circuit (Azerbaijan)", "img_url": "https://KavinsProjects.github.io/F1_Track_API/track-img/Baku_City_Circuit.png" },
+    { "id": 17, "name": "Marina Bay Street Circuit (Singapore)", "img_url": "https://KavinsProjects.github.io/F1_Track_API/track-img/Marina_Bay_Circuit.png" },
+    { "id": 18, "name": "Circuit of the Americas (Austin, USA)", "img_url": "https://KavinsProjects.github.io/F1_Track_API/track-img/COTA_Circuit.png" },
+    { "id": 19, "name": "Autodromo Hermanos Rodriguez (Mexico City, Mexico)", "img_url": "https://KavinsProjects.github.io/F1_Track_API/track-img/Mexico_Circuit.png" },
+    { "id": 20, "name": "Autodromo Jose Carlos Pace - Interlagos (Sao Paulo, Brazil)", "img_url": "https://KavinsProjects.github.io/F1_Track_API/track-img/Interlagos_Circuit.png" },
+    { "id": 21, "name": "Las Vegas Strip Circuit (USA)", "img_url": "https://KavinsProjects.github.io/F1_Track_API/track-img/Las_Vegas_Circuit.png" },
+    { "id": 22, "name": "Losail International Circuit (Qatar)", "img_url": "https://KavinsProjects.github.io/F1_Track_API/track-img/Losail_Circuit.png" },
+    { "id": 23, "name": "Yas Marina Circuit (Abu Dhabi, UAE)", "img_url": "https://KavinsProjects.github.io/F1_Track_API/track-img/Yas_Marina_Circuit.png" },
+    { "id": 24, "name": "Autodromo Nazionale Monza (Italy)", "img_url": "https://KavinsProjects.github.io/F1_Track_API/track-img/Monza_Circuit.png" }
+  ]
 }
