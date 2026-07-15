@@ -1,7 +1,7 @@
 {
     "track" : [
         
-  { "id": 1, "name": "Albert Park Circuit (Melbourne, Australia)", "img_url": "/track-img/Albert_Park_Circuit.png" },
+  { "id": 1, "name": "Albert Park Circuit (Melbourne, Australia)", "img_url": "https://<username>.github.io/F1_Track_API/track-img/Albert_Park_Circuit.png" },
 
   { "id": 2, "name": "Shanghai International Circuit (China)", "img_url": "/track-img/chinese_Circuit.png" },
 
