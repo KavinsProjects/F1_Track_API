@@ -12,7 +12,7 @@
     { "id": 10, "name": "Red Bull Ring (Spielberg, Austria)", "img_url": "https://KavinsProjects.github.io/F1_Track_API/track-img/Red_Bull_Ring.png" },
     { "id": 11, "name": "Silverstone Circuit (Great Britain)", "img_url": "https://KavinsProjects.github.io/F1_Track_API/track-img/Silverstone_Circuit.png" },
     { "id": 12, "name": "Circuit de Spa-Francorchamps (Belgium)", "img_url": "https://KavinsProjects.github.io/F1_Track_API/track-img/Spa_Francorchamps_Circuit.png" },
-    { "id": 13, "name": "Hungaroring (Budapest, Hungary)", "img_url": "https://KavinsProjects.github.io/F1_Track_API/track-img/Hungaroring_Circuit.png" },
+    { "id": 13, "name": "Hungaroring (Budapest, Hungary)", "img_url": "https://KavinsProjects.github.io/F1_Track_API/track-img/Hungarain_Circuit.png" },
     { "id": 14, "name": "Circuit Zandvoort (Netherlands)", "img_url": "https://KavinsProjects.github.io/F1_Track_API/track-img/Zandvoort_Circuit.png" },
     { "id": 15, "name": "Madring - IFEMA Circuit (Madrid, Spain)", "img_url": "https://KavinsProjects.github.io/F1_Track_API/track-img/Madring_Circuit.png" },
     { "id": 16, "name": "Baku City Circuit (Azerbaijan)", "img_url": "https://KavinsProjects.github.io/F1_Track_API/track-img/Baku_City_Circuit.png" },
